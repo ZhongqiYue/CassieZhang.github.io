@@ -2,6 +2,9 @@ name: "Internet!"
 output_dir: "."
 navbar:
   title: "Home"
+  right:
+  - icon: fa-envelope fa-lg
+      href: mailto:<zzhang2@gwu.edu>
   
 output:
   html_document:
